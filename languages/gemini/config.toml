@@ -1,0 +1,11 @@
+name = "Gemini"
+grammar = "gemini"
+path_suffixes = ["gmi", "gemini"]
+word_characters = ["-"]
+brackets = [
+    { start = "\"", end = "\"", close = false, newline = false },
+    { start = "'", end = "'", close = false, newline = false },
+    { start = "`", end = "`", close = false, newline = false },
+]
+
+soft_wrap = "preferred_line_length"
