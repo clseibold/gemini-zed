@@ -19,5 +19,6 @@ To test if the extension works ...
 ```
 
 > quotes
+> text stuff
 
 Testing to see how soft-wrapping will work in the zed editor using the gemtext markup language. Because this is a long paragraph, this should wrap based on the user's preferred line length.

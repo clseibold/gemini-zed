@@ -22,4 +22,5 @@
 (ulist
   (indicator) @punctuation.list_marker)
 (quote
-  (indicator) @punctuation)
+  (indicator) @punctuation
+  (text) @text.block_quote)
